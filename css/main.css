@@ -913,7 +913,7 @@ ul {
 }
 #team-members .container .box .team-img {
   margin-top: 10px;
-  padding-right: 55px;
+  margin-right: 55px;
 }
 #team-members .container .box:hover .team-img {
   filter: grayscale();
