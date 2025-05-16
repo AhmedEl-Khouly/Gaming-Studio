@@ -28,4 +28,4 @@ This project is for **educational purposes only**.
 
 ---
 
-© 2025 | Built by [Your Name]
+© 2025 | Built by [Ahmed ElKhouly]
