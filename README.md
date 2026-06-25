@@ -5,7 +5,7 @@ The project was recreated from scratch using only **HTML** and **CSS**, as part 
 
 ## 🚀 Live Demo
 
-[Live Preview on Netlify](https://gaming-studio-10.netlify.app/)
+[Live Preview](https://ahmedel-khouly.github.io/Gaming-Studio/)
 
 ## 📌 Features
 
